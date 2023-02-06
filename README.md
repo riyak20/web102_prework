@@ -19,9 +19,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='?' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/bVKb1Tu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with https://imgur.com/
+GIF created with https://imgur.com/ and LiceCap.
 
 ## Notes
 
